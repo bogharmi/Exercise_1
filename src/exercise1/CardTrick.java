@@ -6,6 +6,11 @@ package exercise1;
  * To be used as starting code in Exercise
  * @author Mitansu Kamleshbhai Boghara 
  */
+
+/**
+ * --------- I am done! ------------
+*/
+
 import java.util.Random;
 import java.util.Scanner;
 
